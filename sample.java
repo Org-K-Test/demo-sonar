@@ -10,7 +10,7 @@ class HelloWorld {
     }
     public int sum1(int a, int b){
         return a + b;
-    }
+    
     public int sum2(int a, int b){
         return a + b;
     
